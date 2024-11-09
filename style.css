@@ -55,8 +55,8 @@ p {
 
 /* 1 */
 .btn-1 {
-    background-color: #89d8d3;
-  background-image: linear-gradient(315deg, #89d8d3 0%, #03c8a8 74%);
+    background-color: #8145b9;
+  background-image: linear-gradient(315deg, #6c34ac 0%, #7d399c 74%);
     border: none;
     z-index: 1;
   }
@@ -69,8 +69,8 @@ p {
     left: 0;
     z-index: -1;
     border-radius: 5px;
-     background-color: #4dccc6;
-  background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+     background-color: #a664c5;
+  background-image: linear-gradient(315deg, #b474f0 0%, #aa85ee 74%);
     box-shadow:
      -7px -7px 20px 0px #fff9,
      -4px -4px 5px 0px #fff9,
@@ -79,7 +79,7 @@ p {
     transition: all 0.3s ease;
   }
   .btn-1:hover {
-    color: #fff;
+    color: #fffdfd;
   }
   .btn-1:hover:after {
     top: 0;
@@ -103,8 +103,8 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-     background-color: #1fd1f9;
-  background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+     background-color: #f77409;
+  background-image: linear-gradient(315deg, #df7008 0%, #b621fe 74%);
     transition: all 0.3s ease;
   }
   .btn-2:hover {
@@ -126,8 +126,8 @@ p {
   
  /* 3 */
 .btn-3 {
-    background: rgb(22,9,240);
-  background: linear-gradient(0deg, rgba(22,9,240,1) 0%, rgba(49,110,244,1) 100%);
+    background: rgb(240, 9, 9);
+  background: linear-gradient(0deg, rgb(240, 9, 9) 0%, rgb(109, 28, 3) 100%);
     color: #fff;
     border: none;
     transition: all 0.3s ease;
